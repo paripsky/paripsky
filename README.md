@@ -9,9 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/paripsky">github</a> ·
-  <a href="https://linkedin.com/in/paripsky">linkedin</a> ·
-  <a href="https://twitter.com/pepechuuu">twitter</a> ·
   <a href="https://dev.to/paripsky">dev.to</a> ·
+  <a href="https://linkedin.com/in/paripsky">linkedin</a> ·
+  <a href="https://app.daily.dev/paripsky">daily.dev</a> ·
+  <a href="https://twitter.com/pepechuuu">twitter</a> ·
   <a href="https://paripsky.github.io">website</a>
 </p>
 
